@@ -1,4 +1,4 @@
 SipCommunicator
 ===============
 
-SipCommunicator is a VOIP client
+SipCommunicator is a VOIP client implement with C#.
